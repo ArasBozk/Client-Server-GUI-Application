@@ -1,0 +1,9 @@
+C:\Users\ozhan\Documents\Visual Studio 2015\Projects\Cs408_step2_deneme_0.01\Cs408_step2_deneme_0.01\bin\Debug\Cs408_step2_deneme_0.01.exe
+C:\Users\ozhan\documents\visual studio 2015\Projects\Cs408_step2_deneme_0.01\Cs408_step2_deneme_0.01\bin\Debug\Cs408_step2_deneme_0.01.exe.config
+C:\Users\ozhan\documents\visual studio 2015\Projects\Cs408_step2_deneme_0.01\Cs408_step2_deneme_0.01\obj\Debug\Cs408_step2_deneme_0._01.Form1.resources
+C:\Users\ozhan\documents\visual studio 2015\Projects\Cs408_step2_deneme_0.01\Cs408_step2_deneme_0.01\obj\Debug\Cs408_step2_deneme_0._01.Properties.Resources.resources
+C:\Users\ozhan\documents\visual studio 2015\Projects\Cs408_step2_deneme_0.01\Cs408_step2_deneme_0.01\obj\Debug\Cs408_step2_deneme_0.01.csproj.GenerateResource.Cache
+C:\Users\ozhan\documents\visual studio 2015\Projects\Cs408_step2_deneme_0.01\Cs408_step2_deneme_0.01\obj\Debug\Cs408_step2_deneme_0.01.exe
+C:\Users\ozhan\documents\visual studio 2015\Projects\Cs408_step2_deneme_0.01\Cs408_step2_deneme_0.01\obj\Debug\Cs408_step2_deneme_0.01.pdb
+C:\Users\ozhan\documents\visual studio 2015\Projects\Cs408_step2_deneme_0.01\Cs408_step2_deneme_0.01\bin\Debug\Cs408_step2_deneme_0.01.pdb
+C:\Users\ozhan\Documents\Visual Studio 2015\Projects\Cs408_step2_deneme_0.01\Cs408_step2_deneme_0.01\obj\Debug\Cs408_step2_deneme_0.01.csprojResolveAssemblyReference.cache
